@@ -6,3 +6,7 @@
 Image(systemName: "heart")
 
 ```
+
+- [x] create task list
+- [ ] commit to file
+- [ ] finish project
